@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @Shimon 
 - 👀 I’m interested in Software development, programming on JAVA, Python, C 
-- ☘️ I’m currently learning Bachelor's degree in Software Engineering
+- ☘️ I’m currently learning Bachelor's degree in Computer Science
 - 📫 How to reach me Desta101@gmail.com or on LinkedIn Shimon Desta
 
 Skills: C / C++ / JAVA / SQL  / HTML / PYTHON
