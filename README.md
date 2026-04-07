@@ -42,8 +42,15 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Desta101&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Desta101&layout=compact&theme=tokyonight&cache_seconds=1800"/>
+  <img src="https://streak-stats.demolab.com?user=Desta101&theme=github-dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Desta101&langs_count=6" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Desta101&label=Profile%20views&color=58A6FF&style=flat" />
 </p>
 
 ---
@@ -54,9 +61,11 @@
   <a href="https://www.linkedin.com/in/shimon-desta-878043211/">
     <img src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin" />
   </a>
+  
   <a href="mailto:Desta101@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-000?logo=gmail" />
   </a>
+  
   <a href="https://github.com/Desta101">
     <img src="https://img.shields.io/badge/GitHub-000?logo=github" />
   </a>
